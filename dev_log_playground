@@ -1,0 +1,17 @@
+25/10/31
+    Gambling project sounds fun, maybe I could get some practice
+    and an overview over the graphic and animation world...
+    enriching...
+
+  random
+    PRNG, uses things such as device time, whatever, to derive
+    seed, takes it through an algorithm. Can be replicated with
+    same seed, fast, not as secure, think minecraft seeds.
+
+  secrets
+    cryptography, instead of easy seeds, more randomized methods,
+    difficult to replicate, idk, more secure.
+
+    I have to put my current classes into real world practice, dive
+    deeper into the theory behind crytography, make use of
+    discreet maths for computer science.

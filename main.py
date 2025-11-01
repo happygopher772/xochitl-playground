@@ -6,7 +6,8 @@ def run_menu():
         print("1. Countdown Timer")
         print("2. Stopwatch")
         print("3. Timestamp Logger")
-        print("4. Exit")
+        print("4. The Old Gambler")
+        print("5. Exit")
 
         choice = input("Select an option: ")
 
@@ -17,6 +18,8 @@ def run_menu():
         elif choice == "3":
             os.system("python timestamp_logger.py")
         elif choice == "4":
+            os.system("python fair_gamble.py")
+        elif choice == "5":
             print("じゃねー")
             break
         else:

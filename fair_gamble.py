@@ -43,7 +43,7 @@ def update_label(new):
     img = tk.PhotoImage(file = new)
     spinDisplay.config(image = img)
 
-    #tinker uses python memeory managment, deletes unrefrenced objects automatically...
+    #tinker uses python memeory managment, which deletes unrefrenced objects automatically...
     spinDisplay.image = img
     root.update()
     time.sleep(0.2)

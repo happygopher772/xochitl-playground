@@ -1,7 +1,7 @@
 import tkinter as tk
 import time
 
-def simple_countdown()
+def simple_countdown():
     print("3!")
     time.sleep(1)
     print("2!")
